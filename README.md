@@ -1,16 +1,13 @@
-### Hi there 👋
+.Boas VINDAS AO MEU PERFIL 🇧🇷
 
-<!--
-**realdudu123/realdudu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.Meu nome e Carlos Eduardo 
 
-Here are some ideas to get you started:
+.Estou ESTUDANDO NA ALURA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.ESTOU ME DESENVOLVENDO NA LINGUAGEM JavaScript
+
+.Utiliso esse espaco para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
+
+.Voce entrar em contato comigo
+
+.carlos.damasio.carvalho@escola.pr.gov.br
